@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="container grid grid-four-column">
           <div className="footer-about">
             <picture>
-              <NavLink to="/">
+              <NavLink to="/interno">
                 <img src="./images/Logo.svg" alt="logo" />
               </NavLink>
             </picture>
@@ -57,19 +57,19 @@ const Footer = () => {
 
             <ul>
               <li>
-                <Link to="/">Kitchan</Link>
+                <Link to="/interno">Kitchan</Link>
               </li>
               <li>
-                <Link to="/">Living Area</Link>
+                <Link to="/interno">Living Area</Link>
               </li>
               <li>
-                <Link to="/">Bathroom</Link>
+                <Link to="/interno">Bathroom</Link>
               </li>
               <li>
-                <Link to="/">Dinning Hall</Link>
+                <Link to="/interno">Dinning Hall</Link>
               </li>
               <li>
-                <Link to="/">Bedroom</Link>
+                <Link to="/interno">Bedroom</Link>
               </li>
             </ul>
           </div>

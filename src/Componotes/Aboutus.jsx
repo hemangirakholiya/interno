@@ -33,7 +33,7 @@ const Aboutus = (props) => {
             </NavLink>
           </Button>
           <Button className="btnn getfree-btn">
-            <NavLink to="/">
+            <NavLink to="/interno">
               {props.btn}
               <i className="arrow fa-solid fa-arrow-right-long"></i>
             </NavLink>

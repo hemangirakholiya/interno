@@ -45,10 +45,10 @@ function App() {
       <ThemeProvider theme={theme}>
         <GlobalStyle />
 
-        <BrowserRouter>
+        <BrowserRouter basename="/interno">
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/interno" element={<Home />} />
             <Route path="/pages" element={<Navpages />} />
             <Route path="/services" element={<Services />} />
             <Route path="/project" element={<Project />} />
@@ -58,8 +58,8 @@ function App() {
             <Route path="/faq" element={<Faq />} />
             <Route path="/team" element={<Team />} />
             <Route path="/login" element={<Login />} />
-            <Route path="/service-single" element={<ServiceSingle/>} />
-            <Route path="/team-single" element={<TeamSingle/>} />
+            <Route path="/service-single" element={<ServiceSingle />} />
+            <Route path="/team-single" element={<TeamSingle />} />
             <Route path="*" element={<Error />} />
           </Routes>
           <GoToTop />

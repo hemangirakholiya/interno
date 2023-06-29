@@ -19,42 +19,42 @@ const Services = () => {
         title: "Project Plan",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 5,
         title: "Interior Work",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 6,
         title: "Realization",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 7,
         title: "2d/3d ArtWork",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 8,
         title: "Realization",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 9,
         title: "DecortionWork",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
     ],
   };

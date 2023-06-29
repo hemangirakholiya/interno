@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-containerr">
-          <NavLink to="/" className="navbar-logo">
+          <NavLink to="/interno" className="navbar-logo">
             <img src="./images/Logo.svg" alt="logo" />
           </NavLink>
           <div className="menu-icon" onClick={handleClick}>
@@ -20,7 +20,7 @@ function Navbar() {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <NavLink to="/" className="nav-links" onClick={closeMobileMenu}>
+              <NavLink to="/interno" className="nav-links" onClick={closeMobileMenu}>
                 Home
               </NavLink>
             </li>

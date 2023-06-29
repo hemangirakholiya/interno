@@ -62,21 +62,21 @@ const Home = () => {
         title: "Project Plan",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 2,
         title: "Interior Work",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
       {
         id: 3,
         title: "Realization",
         content:
           "There are many variations of the passages of lorem Ipsum from available majority",
-        link: "/",
+        link: "/interno",
       },
     ],
   };
