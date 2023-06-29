@@ -18,7 +18,7 @@ const Toppage = (props) => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Photo.png);
+    background-image: url(./images/Photo.png);
     overflow-x: hidden;
     background-repeat: no-repeat;
     height: 50vh;

@@ -39,7 +39,7 @@ const Wrapper = styled.section`
     padding: 0;
     overflow-x: hidden;
     /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
-    background-image: url(/images/Photo.jpg);
+    background-image: url(./images/photo.jpg);
     border-radius: 0px 0px 0px 291px;
   }
 

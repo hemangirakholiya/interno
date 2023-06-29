@@ -127,7 +127,7 @@ const TeamSingle = () => {
           <div className="data-part">
             <div className="img-part">
               <picture>
-                <img src="./images/maint-img.png" alt="" />
+                <img src="./images/maintimg.png" alt="" />
               </picture>
             </div>
             <div className="text-part">
@@ -323,7 +323,7 @@ const TeamSingle = () => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Team-Single.jpg);
+    background-image: url(./images/teamsingle.jpg);
   }
 `;
 const Sectiont = styled.div`

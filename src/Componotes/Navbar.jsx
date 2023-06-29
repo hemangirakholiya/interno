@@ -13,7 +13,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-containerr">
           <NavLink to="/interno" className="navbar-logo">
-            <img src="./images/Logo.svg" alt="logo" />
+            <img src="./images/logo.svg" alt="logo" />
           </NavLink>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />

@@ -36,7 +36,7 @@ const Contact = () => {
 };
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Images.png);
+    background-image: url(./images/Images.png);
   }
 `;
 const Section = styled.div`

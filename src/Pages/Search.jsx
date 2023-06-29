@@ -68,7 +68,7 @@ const Search = () => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/search.png);
+    background-image: url(./images/search.png);
   }
   .data_container {
     display: none;

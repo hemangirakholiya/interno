@@ -5,7 +5,7 @@ import Toppage from "../Componotes/Toppage";
 
 const Team = () => {
   const data = {
-    image: "./images/Tphoto.jpg",
+    image: "./images/tphoto.jpg",
     title: "Our Professional",
     subtitle: "Home / Team",
   };
@@ -91,7 +91,7 @@ const Team = () => {
 };
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/teaming.png);
+    background-image: url(./images/teaming.png);
   }
 `;
 const Section = styled.div`

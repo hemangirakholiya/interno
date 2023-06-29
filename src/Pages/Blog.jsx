@@ -86,11 +86,11 @@ const Blog = () => {
 };
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Image_laceholder.png);
+    background-image: url(./images/imagelaceholder.png);
   }
 `;
 const Section = styled.div`
-  .projects-container {
+  .projects-container { 
     width: 100%;
     margin: auto;
     margin-top: 6rem;

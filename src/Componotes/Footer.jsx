@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="footer-about">
             <picture>
               <NavLink to="/interno">
-                <img src="./images/Logo.svg" alt="logo" />
+                <img src="./images/logo.svg" alt="logo" />
               </NavLink>
             </picture>
             <p>

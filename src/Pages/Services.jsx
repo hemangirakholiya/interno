@@ -7,7 +7,7 @@ import Contacts from "../Componotes/Contacts";
 
 const Services = () => {
   const data = {
-    image: "./images/Tphoto.jpg",
+    image: "./images/tphoto.jpg",
     title: "Services",
     subtitle: "Home / Services",
   };
@@ -138,7 +138,7 @@ const Services = () => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Tphoto.jpg);
+    background-image: url(./images/tphoto.jpg);
   }
 `;
 

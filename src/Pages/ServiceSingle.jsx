@@ -100,7 +100,7 @@ const ServiceSingle = () => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/Service-Single.png);
+    background-image: url(./images/servicesingle.png);
   }
 `;
 const Section = styled.div`

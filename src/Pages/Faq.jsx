@@ -45,7 +45,7 @@ const Faq = () => {
 
 const Wrapper = styled.div`
   .main_container {
-    background-image: url(/images/faqimages.png);
+    background-image: url(./images/faqimages.png);
   }
 `;
 const Section = styled.div`

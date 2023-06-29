@@ -95,7 +95,7 @@ const Project = () => {
 const Wrapper = styled.div`
 
   .main_container {
-    background-image: url(/images/Timage-1.png);
+    background-image: url(./images/timage-1.png);
   }
   .pagination {
     display: flex;
