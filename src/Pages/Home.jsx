@@ -19,25 +19,25 @@ const Home = () => {
     projectsData: [
       {
         id: 1,
-        image: "./images/Image (2).png",
+        image: "./images/image2.png",
         title: "Modern Kitchan",
         type: "Decor / Artchitecture",
       },
       {
         id: 2,
-        image: "./images/Image (3).png",
+        image: "./images/image3.png",
         title: "Modern Kitchan",
         type: "Decor / Artchitecture",
       },
       {
         id: 3,
-        image: "./images/Image (4).png",
+        image: "./images/image4.png",
         title: "Modern Kitchan",
         type: "Decor / Artchitecture",
       },
-      {
+      { 
         id: 4,
-        image: "./images/Image (5).png",
+        image: "./images/image5.png",
         title: "Modern Kitchan",
         type: "Decor / Artchitecture",
       },
@@ -47,7 +47,7 @@ const Home = () => {
   
 
   const carddata = {
-    image: "./images/Image (1).png",
+    image: "./images/image1.png",
     heading: "We Create The Art Of Stylish Living Stylishly",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     btn: "Get Free Estimate",

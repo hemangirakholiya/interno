@@ -64,7 +64,7 @@ const Services = () => {
     heading: "Concept & Details",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     number: "01",
-    icon: "./images/Icon.png",
+    icon: "./images/icon.png",
   };
 
   const cardodata = {
@@ -72,7 +72,7 @@ const Services = () => {
     heading: "Idea for Work",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     number: "02",
-    icon: "./images/Icon (1).png",
+    icon: "./images/icon1.png",
   };
 
   const cardtdata = {
@@ -80,7 +80,7 @@ const Services = () => {
     heading: "Design",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     number: "03",
-    icon: "./images/Icon (2).png",
+    icon: "./images/icon2.png",
   };
 
   const cardthdata = {
@@ -88,7 +88,7 @@ const Services = () => {
     heading: "Perfection",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     number: "04",
-    icon: "./images/Icon (3).png",
+    icon: "./images/icon3.png",
   };
 
   return (

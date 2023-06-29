@@ -4,21 +4,21 @@ import styled from "styled-components";
 const Testimonials = () => {
   const testimonialsData = [
     {
-      image: "./images/Image (11).png",
+      image: "./images/image11.png",
       name: "Nattasha Mith",
       city: "Sydney",
       country: "USA",
       pera: "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been",
     },
     {
-      image: "./images/Image (9).png",
+      image: "./images/image9.png",
       name: "Raymond Galarioe",
       city: "Sydney",
       country: "Australia",
       pera: "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been scrambled it to make a type book.",
     },
     {
-      image: "./images/Image (10).png",
+      image: "./images/image10.png",
       name: "Benny Roll",
       city: "Sydney",
       country: "New York",

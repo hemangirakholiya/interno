@@ -14,13 +14,13 @@ const Navpages = () => {
   };
 
   const carddata = {
-    image: "./images/cardimg (1).png",
+    image: "./images/cardimg1.png",
     heading: "What We Do",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     btn: "Our Concept",
   };
   const cardsdata = {
-    image: "./images/cardimg (2).png",
+    image: "./images/cardimg2.png",
     heading: "The End Result",
     pera: "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using that it has a more-or-less normal.",
     btn: "Our Portfolio",
@@ -34,7 +34,7 @@ const Navpages = () => {
     flipsData: [
       {
         id: 1,
-        image: "./images/Fimage (1).png",
+        image: "./images/fimage1.png",
         name: "Charlotte Levi",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -42,7 +42,7 @@ const Navpages = () => {
       },
       {
         id: 2,
-        image: "./images/Fimage (2).png",
+        image: "./images/fimage2.png",
         name: "Nattasha Julie",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -50,7 +50,7 @@ const Navpages = () => {
       },
       {
         id: 3,
-        image: "./images/Fimage (3).png",
+        image: "./images/fimage3.png",
         name: "Nora Owen",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -58,7 +58,7 @@ const Navpages = () => {
       },
       {
         id: 4,
-        image: "./images/Fimage (4).png",
+        image: "./images/fimage4.png",
         name: "John Smith",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",

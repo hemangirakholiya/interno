@@ -82,7 +82,7 @@ const TeamSingle = () => {
     flipsData: [
       {
         id: 1,
-        image: "./images/Fimage (1).png",
+        image: "./images/fimage1.png",
         name: "Charlotte Levi",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -90,7 +90,7 @@ const TeamSingle = () => {
       },
       {
         id: 2,
-        image: "./images/Fimage (2).png",
+        image: "./images/fimage2.png",
         name: "Nattasha Julie",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -98,7 +98,7 @@ const TeamSingle = () => {
       },
       {
         id: 3,
-        image: "./images/Fimage (3).png",
+        image: "./images/fimage3.png",
         name: "Nora Owen",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",
@@ -106,7 +106,7 @@ const TeamSingle = () => {
       },
       {
         id: 4,
-        image: "./images/Fimage (4).png",
+        image: "./images/fimage4.png",
         name: "John Smith",
         work: "Design, Australia",
         number: "+1 (378) 400-1234",

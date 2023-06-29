@@ -9,19 +9,19 @@ const Blogs = () => {
     projectsData: [
       {
         id: 5,
-        image: "./images/Image (6).png",
+        image: "./images/image6.png",
         pera: "Let’s Get Solustion For Buillding Construcstion Work",
         date: "26 December,2022 ",
       },
       {
         id: 6,
-        image: "./images/Image (7).png",
+        image: "./images/image7.png",
         pera: "Low Cost Latest Invented Interior Designing and Ideas.",
         date: "22 December,2022 ",
       },
       {
         id: 7,
-        image: "./images/Image (8).png",
+        image: "./images/image8.png",
         pera: "Another ArticleBest For Any Office & Business Interior Solution",
         date: "25 December,2022 ",
       },
